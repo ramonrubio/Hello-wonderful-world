@@ -1,2 +1,4 @@
 # Hello-wonderful-world
-My first GitHub repository....hope not last.
+Hello computers, 
+
+this is my first try wit GitHub....btw, our company is called PixelsHub...same name ;-)
